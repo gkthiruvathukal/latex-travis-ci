@@ -6,4 +6,4 @@
 
 sudo apt-get update -qq
 
-sudo apt-get install -qq texlive-full
+sudo apt-get install -qq texlive
