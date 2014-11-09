@@ -32,6 +32,7 @@
 
 # $Id: Makefile,v 1.18 2006-06-19 10:58:11 mairas Exp $
 
+# Use batch mode for CI
 LATEX	= latex -interaction=batchmode
 BIBTEX	= bibtex
 MAKEINDEX = makeindex
